@@ -1,5 +1,3 @@
-# Cellchat
-
 # do both objects separately
 # repeat these following lines for control cells
 library("NMF")
